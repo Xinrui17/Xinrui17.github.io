@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Amazon logo-style mark</title>
+  <desc id="desc">Dark square with Amazon text and smile arrow.</desc>
+  <rect width="160" height="160" rx="24" fill="#232f3e"/>
+  <text x="80" y="76" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" fill="#ffffff">amazon</text>
+  <path d="M43 98c28 20 58 18 80 1" fill="none" stroke="#ff9900" stroke-width="8" stroke-linecap="round"/>
+  <path d="M113 94l19 3-12 14" fill="none" stroke="#ff9900" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
