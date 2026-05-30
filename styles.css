@@ -343,8 +343,8 @@ p {
   padding-left: 1.25rem;
   margin: 0;
   color: #5f6368;
-  font-size: 18px;
-  line-height: 1.66;
+  font-size: 17px;
+  line-height: 1.62;
 }
 
 .full-publication-list li {
@@ -359,7 +359,7 @@ p {
   background: #fef5f1;
   border: 1px solid rgba(245, 187, 167, 0.75);
   border-radius: 999px;
-  font-size: 13px;
+  font-size: 12px;
   font-weight: 650;
   line-height: 1.35;
   white-space: nowrap;
