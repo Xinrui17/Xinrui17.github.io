@@ -227,7 +227,7 @@ p {
 .subheading {
   margin: 34px 0 16px;
   color: var(--accent);
-  font-size: 1.58rem;
+  font-size: 1.42rem;
   font-weight: 700;
   text-transform: none;
 }
@@ -249,11 +249,11 @@ p {
 
 .selected-papers {
   display: grid;
-  gap: 24px;
+  gap: 20px;
 }
 
 .publication-card {
-  padding: 8px;
+  padding: 6px;
   color: #5f6368;
   background: #ffffff;
   border: 1.5px solid #dddddd;
@@ -279,12 +279,12 @@ p {
 .pub-card-inner {
   display: flex;
   align-items: center;
-  gap: 24px;
+  gap: 20px;
 }
 
 .pub-media {
   position: relative;
-  width: 340px;
+  width: 320px;
   overflow: hidden;
   flex: 0 0 auto;
   border-radius: 8px;
@@ -295,7 +295,7 @@ p {
   display: block;
   width: 100%;
   height: auto;
-  max-height: 245px;
+  max-height: 230px;
   margin: 0 auto;
   object-fit: contain;
 }
@@ -303,19 +303,19 @@ p {
 .publication-card strong,
 .publication-card > div > div > strong {
   color: #202124;
-  font-size: 1.24rem;
+  font-size: 1.16rem;
   line-height: 1.35;
 }
 
 .publication-card p {
   margin: 8px 0 0;
-  font-size: 1.08rem;
+  font-size: 1.03rem;
   line-height: 1.55;
 }
 
 .authors {
   color: #6b7280;
-  font-size: 1.03rem;
+  font-size: 0.98rem;
   line-height: 1.45;
 }
 
