@@ -343,7 +343,7 @@ p {
   padding-left: 1.25rem;
   margin: 0;
   color: #5f6368;
-  font-size: 15px;
+  font-size: 13px;
   line-height: 1.62;
 }
 
@@ -354,12 +354,12 @@ p {
 .pub-list-badge {
   display: inline-block;
   margin-right: 6px;
-  padding: 1px 7px;
+  padding: 1px 6px;
   color: #b95f3d;
   background: #fef5f1;
   border: 1px solid rgba(245, 187, 167, 0.75);
   border-radius: 999px;
-  font-size: 10px;
+  font-size: 8px;
   font-weight: 650;
   line-height: 1.35;
   white-space: nowrap;
